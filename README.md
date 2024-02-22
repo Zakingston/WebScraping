@@ -16,3 +16,11 @@ Create a dataframe: Use a dataframe library (e.g., Pandas in Python) to organize
 Filter data: Filter out any unnecessary information and focus solely on pass events.
 
 Visualize or analyze the dataframe: Once the dataframe is created, you can visualize it, perform analysis, or further manipulate the data as needed.
+
+## Scraping financial data
+
+Implementing a Python script to extract via Web Scraping the total investment value, calculated as:
+
+TOTAL VALUE = ∑ fund x shares
+
+BlackRock Global Funds - Euro Short Duration Bond Fund A2 EUR: https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id=F0GBR04AS2 iShares Europe Equity Index Fund (LU) A2 EUR: https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id=F00000OYMI iShares Euro Government Bond Index Fund (LU) A2 EUR: https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id=F00000OYMY
